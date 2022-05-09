@@ -1,9 +1,9 @@
 # Data_A-V_2022
-Repositorio de respuestas de la materia análisis y visualización de datos 2022 diplomatura en ciencia de datos
+Repositorio de respuestas de la materia: Análisis y Visualización de Datos 2022, en el marco de la Diplomatura en Ciencia de Datos - Universidad Nacional de Córdoba.
 
 # **DIPLOMATURA 2022**
 
-# ANALISIS Y VISUALIZACION DE DATOS
+# ANÁLISIS Y VISUALIZACIÓN DE DATOS
 
 ## GRUPO Nº24
 
