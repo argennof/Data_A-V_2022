@@ -9,7 +9,6 @@ Repositorio de respuestas de la materia: Análisis y Visualización de Datos 202
 
 ## INTEGRANTES:
    - [x] Daniel Rubio
-   - [x] Clarisa Manzone
    - [x] Diana Fonnegra
    - [x] Nico Rosales  
    
